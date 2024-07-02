@@ -1,4 +1,4 @@
-Hi 👋 My name is Haram Nasir
+Hi 👋 I'm Haram Nasir
 ============================
 
 A Computer Science Student and Web Developer
